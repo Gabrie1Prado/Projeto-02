@@ -1,0 +1,30 @@
+body {
+    width: 95%;
+    height: 92vh;
+    max-width: 900px;
+    margin: auto;
+    font-family: sans-serif;
+    /* Sans Serif é uma fonte sem serifa tipo um tracinho nas letras */
+    line-height: 1.5;
+    /* Dá um espaço entre as linhas */
+    background: url(../Imagens/fundo1.jpg) center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+main {
+    background: #00000054;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 92vh;
+}
+
+.logo {
+    text-align: center;
+}
+
+.h1 {
+    text-align: center;
+}
